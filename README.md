@@ -47,3 +47,8 @@ Build and test software of any size, quickly and reliably.
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 [![Build status](https://badge.buildkite.com/1fd282f8ad98c3fb10758a821e5313576356709dd7d11e9618.svg?status=master)](https://ci.bazel.build)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fblubfoo%2Fbazel.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fblubfoo%2Fbazel?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fblubfoo%2Fbazel.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fblubfoo%2Fbazel?ref=badge_large)
